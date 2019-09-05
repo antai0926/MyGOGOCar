@@ -1,10 +1,7 @@
 package com.login.controller;
 
 import java.io.IOException;
-import java.util.HashMap;
-import java.util.Map;
 
-import javax.servlet.RequestDispatcher;
 import javax.servlet.ServletException;
 import javax.servlet.http.Cookie;
 import javax.servlet.http.HttpServlet;
@@ -19,7 +16,6 @@ import com.company.model.CompanyVO;
 import com.login.model.LoginService;
 import com.member.model.MemService;
 import com.member.model.MemVO;
-import com.orders.model.LoginOrdersOnLoad;
 import com.util.HashService;
 public class LoginServlet extends HttpServlet {
 

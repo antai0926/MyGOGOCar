@@ -13,5 +13,8 @@
 			<attribute name="owner.project.facets" value="java"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="lib" path="D:/Dev/eclipse_ee/tomcat/apache-tomcat-9.0.24-windows-x64/apache-tomcat-9.0.24/lib/servlet-api.jar"/>
+	<classpathentry kind="lib" path="D:/Dev/eclipse_ee/tomcat/apache-tomcat-9.0.24-windows-x64/apache-tomcat-9.0.24/lib/tomcat-util.jar"/>
+	<classpathentry kind="lib" path="D:/Dev/eclipse_ee/tomcat/apache-tomcat-9.0.24-windows-x64/apache-tomcat-9.0.24/lib/jsp-api.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
